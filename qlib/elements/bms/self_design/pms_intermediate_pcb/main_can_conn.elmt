@@ -1,5 +1,5 @@
 <definition type="element" link_type="slave" hotspot_x="67" hotspot_y="55" width="130" height="80" version="0.100.0">
-    <uuid uuid="{416d6d81-2138-4385-9cd1-72c199cfd7d6}"/>
+    <uuid uuid="{d86c5f79-4220-423a-8dd7-1668a551a4d6}"/>
     <names>
         <name lang="en">Main CAN Bus Connector</name>
         <name lang="ru">Main CAN Bus Connector</name>
@@ -10,13 +10,13 @@
         <kindInformation name="number">1</kindInformation>
     </kindInformations>
     <description>
-        <text x="-55" y="-34" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="90" color="#000000" text="4 CAN GND"/>
+        <text x="-55" y="-34" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="90" color="#000000" text="6 CAN GND"/>
         <line end1="none" end2="none" y1="-46.5" antialias="false" y2="-46.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="26" length1="1.5" x2="36" length2="1.5"/>
-        <text x="-35" y="-34" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="90" color="#000000" text="3 CAN GND"/>
+        <text x="-35" y="-34" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="90" color="#000000" text="5 CAN GND"/>
         <line end1="none" end2="none" y1="19.5" antialias="false" y2="16.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="47" length1="1.5" x2="50" length2="1.5"/>
         <line end1="none" end2="none" y1="-46.5" antialias="false" y2="-46.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="47" length1="1.5" x2="57" length2="1.5"/>
         <line end1="none" end2="none" y1="19.5" antialias="false" y2="16.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="27.25" length1="1.5" x2="30.25" length2="1.5"/>
-        <text x="-14" y="-34.5" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="90" color="#000000" text="5 CAN L"/>
+        <text x="-14" y="-34.5" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="90" color="#000000" text="4 CAN L"/>
         <line end1="none" end2="none" y1="16.5" antialias="false" y2="19.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="49.75" length1="1.5" x2="52.75" length2="1.5"/>
         <line end1="none" end2="none" y1="16.5" antialias="false" y2="19.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="30" length1="1.5" x2="33" length2="1.5"/>
         <line end1="none" end2="none" y1="-46.5" antialias="false" y2="-51.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="57" length1="1.5" x2="60" length2="1.5"/>
@@ -30,8 +30,8 @@
         <line end1="none" end2="none" y1="19.5" antialias="false" y2="16.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-13.25" length1="1.5" x2="-10.25" length2="1.5"/>
         <line end1="none" end2="none" y1="-51.5" antialias="false" y2="-46.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="47" length1="1.5" x2="47" length2="1.5"/>
         <line end1="none" end2="none" y1="-46.5" antialias="false" y2="-46.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="6" length1="1.5" x2="16" length2="1.5"/>
-        <text x="5" y="-34" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="90" color="#000000" text="2 CAN H"/>
-        <text x="25" y="-34" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="90" color="#000000" text="6 CAN SHLD"/>
+        <text x="5" y="-34" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="90" color="#000000" text="3 CAN H"/>
+        <text x="25" y="-34" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="90" color="#000000" text="2 CAN SHLD"/>
         <line end1="none" end2="none" y1="-46.5" antialias="false" y2="-46.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-14" length1="1.5" x2="-4" length2="1.5"/>
         <line end1="none" end2="none" y1="19.5" antialias="false" y2="16.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="7.5" length1="1.5" x2="10.5" length2="1.5"/>
         <line end1="none" end2="none" y1="19.5" antialias="false" y2="16.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-33" length1="1.5" x2="-30" length2="1.5"/>
@@ -75,6 +75,6 @@
         <line end1="none" end2="none" y1="-46.5" antialias="false" y2="-51.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-24" length1="1.5" x2="-19" length2="1.5"/>
         <line end1="none" end2="none" y1="-51.5" antialias="false" y2="-51.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-14" length1="1.5" x2="-19" length2="1.5"/>
         <line end1="none" end2="none" y1="-51.5" antialias="false" y2="-46.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-14" length1="1.5" x2="-14" length2="1.5"/>
-        <text x="-9" y="-39" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="C4"/>
+        <text x="-15" y="-39" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="CN3/CN6"/>
     </description>
 </definition>
