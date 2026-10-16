@@ -1,8 +1,8 @@
 <definition type="element" link_type="slave" hotspot_x="67" hotspot_y="55" width="130" height="80" version="0.100.0">
-    <uuid uuid="{37638461-ca72-4f36-a648-ee4b87bd09d2}"/>
+    <uuid uuid="{6931c819-82d2-48fe-8bd8-73c4e9806ee9}"/>
     <names>
-        <name lang="en">PMS CAN Bus Connector</name>
-        <name lang="ru">PMS CAN Bus Connector</name>
+        <name lang="en">CAN Bus Connector 5</name>
+        <name lang="ru">CAN Bus Connector 5</name>
     </names>
     <kindInformations>
         <kindInformation name="type">simple</kindInformation>
@@ -75,6 +75,6 @@
         <line end1="none" end2="none" y1="-46.5" antialias="false" y2="-51.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-24" length1="1.5" x2="-19" length2="1.5"/>
         <line end1="none" end2="none" y1="-51.5" antialias="false" y2="-51.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-14" length1="1.5" x2="-19" length2="1.5"/>
         <line end1="none" end2="none" y1="-51.5" antialias="false" y2="-46.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-14" length1="1.5" x2="-14" length2="1.5"/>
-        <text x="-15" y="-39" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="CN4/CN7"/>
+        <text x="-7" y="-38" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="CN7"/>
     </description>
 </definition>
